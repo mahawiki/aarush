@@ -167,6 +167,7 @@ body nav .navbar-nav .btn-danger:hover {
   top: 35%;
 }
 .fh5co-content-box .trainers {
+    width: 100%;
   position: relative;
   padding: 50px 0;
   margin: 70px 0;
