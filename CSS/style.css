@@ -167,13 +167,15 @@ body nav .navbar-nav .btn-danger:hover {
   top: 35%;
 }
 .fh5co-content-box .trainers {
-  position: relative;
-  padding: 50px 0;
-  margin: 70px 0;
-  background: url("../images/gym2.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-color: #000;
+  
+    width: 100%;
+    position: relative;
+    padding: 50px 0;
+    margin: 70px 0;
+    background: url(../images/gym2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #000;
 }
 .fh5co-content-box .trainers .bg-50 {
   background: rgba(0, 0, 0, 0.3);
